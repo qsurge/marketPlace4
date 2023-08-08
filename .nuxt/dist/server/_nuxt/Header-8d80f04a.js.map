@@ -1,0 +1,1 @@
+{"version":3,"file":"Header-8d80f04a.js","sources":["../../../../components/layouts/Page/Header.vue"],"sourcesContent":["<template>\n  <div class=\"mb-4\">\n    <slot />\n  </div>\n</template>\n"],"names":[],"mappings":";;;;AACO,SAAA,eAAA,MAAA,OAAA,SAAA,QAAY;;;;;;;;;;;;"}

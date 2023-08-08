@@ -10,7 +10,7 @@ export default defineNuxtConfig({
   app: {
     pageTransition: { name: "page", mode: "out-in" },
     layoutTransition: { name: "layout", mode: "out-in" },
-    baseURL: "/marketPlace4/"
+    baseURL: "/marketPlace4/",
   },
   modules: [
     "@nuxtjs/tailwindcss",
@@ -66,5 +66,9 @@ export default defineNuxtConfig({
     },
   },
   ssr: true,
-  
+  nitro: {
+    prerender: {
+      failOnError: false, 
+    },
+  },
 });

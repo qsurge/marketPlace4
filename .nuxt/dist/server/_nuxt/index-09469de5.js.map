@@ -1,0 +1,1 @@
+{"version":3,"file":"index-09469de5.js","sources":["../../../../components/layouts/Page/Section/index.vue"],"sourcesContent":["<template>\n  <div class=\"pt-2 mb-6\">\n    <slot />\n  </div>\n</template>\n"],"names":[],"mappings":";;;;AACO,SAAA,eAAA,MAAA,OAAA,SAAA,QAAiB;;;;;;;;;;;;"}

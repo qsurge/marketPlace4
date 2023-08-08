@@ -1,0 +1,1 @@
+{"version":3,"file":"Content-eeabc605.js","sources":["../../../../components/awesome/Card/Content.vue"],"sourcesContent":["<template>\n  <div class=\"card-content px-6 py-6 relative\">\n    <slot />\n  </div>\n</template>\n"],"names":[],"mappings":";;;;AACO,SAAA,eAAA,MAAA,OAAA,SAAA,QAAuC;;;;;;;;;;;;"}
