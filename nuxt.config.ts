@@ -65,6 +65,10 @@ export default defineNuxtConfig({
       theme: "github-dark",
     },
   },
+
+  generate:{
+    nojekyll: true, //not working on this version
+  },
   ssr: true,
   nitro: {
     prerender: {
