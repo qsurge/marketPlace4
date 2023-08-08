@@ -6,6 +6,6 @@ export default {
   "node_modules/@nuxt/ui-templates/dist/templates/error-500.vue": () => import('./_nuxt/error-500-styles.ee00b7aa.mjs').then(interopDefault),
   "components/awesome/Welcome.vue": () => import('./_nuxt/Welcome-styles.e9d51bc2.mjs').then(interopDefault),
   "components/awesome/Form/Switch.vue": () => import('./_nuxt/Switch-styles.9e91630b.mjs').then(interopDefault),
-  "node_modules/nuxt-icon/dist/runtime/IconCSS.vue": () => import('./_nuxt/IconCSS-styles.a7b3568b.mjs').then(interopDefault),
-  "node_modules/nuxt-icon/dist/runtime/Icon.vue": () => import('./_nuxt/Icon-styles.31d27e7d.mjs').then(interopDefault)
+  "node_modules/nuxt-icon/dist/runtime/Icon.vue": () => import('./_nuxt/Icon-styles.31d27e7d.mjs').then(interopDefault),
+  "node_modules/nuxt-icon/dist/runtime/IconCSS.vue": () => import('./_nuxt/IconCSS-styles.a7b3568b.mjs').then(interopDefault)
 }
