@@ -1,1 +1,0 @@
-{"version":3,"file":"Wrapper-eb79d9ab.js","sources":["../../../../components/layouts/Page/Wrapper.vue"],"sourcesContent":["<template>\n  <div class=\"flex-1 py-4 max-w-screen-2xl w-full px-4 mx-auto\">\n    <slot />\n  </div>\n</template>\n"],"names":[],"mappings":";;;;AACO,SAAA,eAAA,MAAA,OAAA,SAAA,QAAwD;;;;;;;;;;;;"}
